@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+  }
+  .sidebar {
+    /* position: relative; */
+    width: 300px;
+    height: 675px;
+    box-sizing: border-box;
+    background-color: blueviolet;
+    padding-top: 5px;
+  }
+  
+  p {
+    color: aliceblue;
+    font-family: "Roboto Condensed", sans-serif;
+    padding-left: 10px;
+  }
